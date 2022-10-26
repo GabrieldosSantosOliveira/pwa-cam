@@ -1,0 +1,15 @@
+{
+  "name": "pwa-cam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "serve": "serve ."
+  },
+  "keywords": [],
+  "author": "Gabriel dos Santos Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
